@@ -10,9 +10,6 @@ Surah Al-fatihah is the first surah in Alquran. Muslim will read this surah ever
 ## usage
 
 
-## Arcthitecture
-
-
 ## How it work
 
 
@@ -23,3 +20,4 @@ Surah Al-fatihah is the first surah in Alquran. Muslim will read this surah ever
 
 
 ## Installation
+
