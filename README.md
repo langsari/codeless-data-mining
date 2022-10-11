@@ -21,21 +21,21 @@ This is a text mining project to determine that Surah(Al-Fatihah) is also be Al-
 - create model
 - View the result
 
-### Access Data
+## Access Data
 
 Use the excel file in the datasets folder of this repository
 
-### Tranform Data
+## Tranform Data
 
 Tranpose data 
 
 ![Imgur](https://i.imgur.com/vQIxQjY.png)
 
-### Text preprocessing
+## Text preprocessing
 
 ![Imgur](https://i.imgur.com/ZB4hCq4.png)
 
-### Model 
+## Model 
 
 ![Imgur](https://i.imgur.com/wjwSU2Q.png)
 
@@ -44,8 +44,8 @@ Tranpose data
 ![Imgur](https://i.imgur.com/E1nmjqa.png)
 
   
-### View the result(compare similarity)
-
+## Cosine similarity
+ ### Example of cosine method usecase
 ![Imgur](https://i.imgur.com/i96p4GG.png)
 
 ## Use cosine similarity to see similarity or distance between document
