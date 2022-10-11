@@ -48,7 +48,7 @@ Tranpose data
  ### Example of cosine method usecase
 ![Imgur](https://i.imgur.com/i96p4GG.png)
 
-## Use cosine similarity to see similarity or distance between document
+## Use cosine similarity to see similarity or distance between documents
 
 ![Imgur](https://i.imgur.com/bAJSSM3.png)
 
