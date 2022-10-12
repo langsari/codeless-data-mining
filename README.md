@@ -30,17 +30,18 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 - knime
 ![](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)
 ## method 
-1. 
-
-
-## How it work
-
+1. Understand our project
+2. Data understanding 
+3. Data preparation 
+    - Clean 
+    - tranform
+    - POS tagging
+    - stemming 
+    - tokenization 
+    - remove stopword 
+4. TF-IDF process
+5. Cossine Semilarity
 
 ## Result
 
-
-## dependencies
-
-
-## Installation
 
