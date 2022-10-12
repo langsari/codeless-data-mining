@@ -1,1 +1,0 @@
-print("saya suka mkn nasi lemak ")

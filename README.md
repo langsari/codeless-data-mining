@@ -5,7 +5,7 @@
 
 
 ## Overview
-similarity evaluation between different English translation of Surah Al-Fatihah by using computational method is perfomed. The computational are Preprocessing, Term Frequency-Inverse Document Frequency(TF-IDF), and Cosine Similarity. Follow the process i used 16 translation of surah Al-Fatihah as our dataset discover a similarity between 16 translation
+similarity evaluation between different English translation of Surah Al-Fatihah by using computational method is perfomed. The computational are Preprocessing, Term Frequency-Inverse Document Frequency(TF-IDF), and Cosine Similarity. Follow the process i used 16 translation of surah Al-Fatihah 
 
 ## Data (Alquran english translation)
 - Dr. Mustafa Khattab, the Clear Quran
@@ -34,7 +34,7 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 2. Data understanding 
 3. Data preparation 
     - Clean 
-    - tranform
+    - transform
     - POS tagging
     - stemming 
     - tokenization 
@@ -43,5 +43,5 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 5. Cossine Semilarity
 
 ## Result
-
+![](/img/result.png)
 
