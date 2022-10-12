@@ -28,7 +28,7 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 ## tool
 - excel
 - knime
-![This is an image](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)
+!(https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)
 ## method 
 1. 
 
