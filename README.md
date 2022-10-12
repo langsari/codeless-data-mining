@@ -5,7 +5,7 @@
 
 
 ## Overview
-similarity evaluation between different English translation of Surah Al-Fatihah by using computational method is perfomed. The computational are Preprocessing, Term Frequency-Inverse Document Frequency(TF-IDF), and Cosine Similarity. Follow the process i used 15 translation of surah Al-Fatihah as our dataset discover a similarity between 15 translation
+similarity evaluation between different English translation of Surah Al-Fatihah by using computational method is perfomed. The computational are Preprocessing, Term Frequency-Inverse Document Frequency(TF-IDF), and Cosine Similarity. Follow the process i used 16 translation of surah Al-Fatihah as our dataset discover a similarity between 16 translation
 
 ## Data (Alquran english translation)
 - Dr. Mustafa Khattab, the Clear Quran
@@ -15,10 +15,23 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 - Maarif-ul-Quran
 - Mufti Taqi Usmani
 - Dr. Ghali
+- Abdul Haleem
+- Tafheem-ul-Quran - Abul Ala Maududi
+- English Translation (Pickthall)
+- English Translation (Yusuf Ali)
+- Ruwwad Center
+- Dr. T. B. Irving
+- Muhammad Taqi-ud-Din al-Hilali &amp; Muhammad Muhsin Khan
+- Maulana Wahiduddin Khan
+- Ibn_Kathir 
 
+## tool
+- excel
+- knime
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.knime.com%2Fknime-features-for-the-enterprise&psig=AOvVaw0jdC7OvPlrxbe3WF5Rsi0G&ust=1665626479062000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLids6fM2foCFQAAAAAdAAAAABAL))
 
-
-## usage
+## method 
+1. 
 
 
 ## How it work
