@@ -105,6 +105,11 @@ Use the excel file in the datasets folder of this repository
  <img src="17.png" alt="data" width="500"/> 
 </p>
 
+#### Result of Text Processing 
+<p float="left">
+ <img src="8.png" alt="data" width="500"/> 
+</p>
+
 #### Result of TF
 <p float="left">
  <img src="11.png" alt="data" width="500"/> 
