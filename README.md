@@ -42,30 +42,38 @@ This is a text mining project to determine that Surah(Al-Fatihah) is also be Al-
 - create model
 - View the result
 
-#### Access Data
+### Access Data
     use the excel file in the datasets folder of this repository
 
 #### Tranform Data
+    tranpose data 
 
     <p float="left">
        <img src="images/tranformworkflow.png" alt="data" width="500"/>
     </p>
 
-#### Text preprocessing
+### Text preprocessing
 
 ![Imgur](https://i.imgur.com/ZB4hCq4.png)
 
-#### Model 
+### Model 
 
 ![Imgur](https://i.imgur.com/wjwSU2Q.png)
-    Use tf-idf model to calculate weight of words
+
+## Use tf-idf model to calculate weight of words
 
 ![Imgur](https://i.imgur.com/E1nmjqa.png)
 
   
-### View the result(compare similarity)
-
+## Cosine similarity
+ ### Example of cosine method usecase
 ![Imgur](https://i.imgur.com/i96p4GG.png)
-    Use cosine similarity to see similarity or distance between document
+
+## Use cosine similarity to see similarity or distance between documents
 
 ![Imgur](https://i.imgur.com/bAJSSM3.png)
+
+# Conclusion
+   In this project, i use tfi-df to create weight frequecy of words and use cosine method to measure
+   the distance between 14 documents of surah Al-fatihah.And i got the highest similarity score- 0.85
+   and the lowest one is - 0.14
