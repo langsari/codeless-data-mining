@@ -18,7 +18,7 @@
 ### Steps to do
 
 <p float="left">
- <img src="1.png" alt="data" width="500"/> 
+ <img src="1.JPG" alt="data" width="500"/> 
 </p>
 
 - Data Access 
@@ -32,13 +32,13 @@
 Use the excel file in the datasets folder of this repository
 
 <p float="left">
- <img src="2.png" alt="data" width="100"/> 
+ <img src="2.JPG" alt="data" width="100"/> 
 </p>
 
 ####  Tranform Data
 
 <p float="left">
- <img src="3.png" alt="data" width="500"/> 
+ <img src="3.JPG" alt="data" width="500"/> 
 </p>
 
 - Use Column filter node to remove unused column(surah,text,ayat)
@@ -54,7 +54,7 @@ Use the excel file in the datasets folder of this repository
 ####  Text preprocessing
 
 <p float="left">
- <img src="4.png" alt="data" width="500"/> 
+ <img src="4.JPG" alt="data" width="500"/> 
 </p>
 
 - Use String to Document node to change string to document
@@ -69,7 +69,7 @@ Use the excel file in the datasets folder of this repository
 ####  Model 
 
 <p float="left">
- <img src="5.png" alt="data" width="500"/> 
+ <img src="5.JPG" alt="data" width="500"/> 
 </p>
 
 - Use TF-IDF node to be Model
@@ -82,50 +82,50 @@ Use the excel file in the datasets folder of this repository
 ###  Cosine similarity
 
 <p float="left">
- <img src="6.png" alt="data" width="500"/> 
+ <img src="6.JPG" alt="data" width="500"/> 
 </p>
 
 ## Result
 
 #### Result of Data access
 <p float="left">
- <img src="7.png" alt="data" width="500"/> 
+ <img src="7.JPG" alt="data" width="500"/> 
 </p>
 
 #### Result of Tranform Data 
 <p float="left">
- <img src="8.png" alt="data" width="500"/> 
+ <img src="8.JPG" alt="data" width="500"/> 
 </p>
 
 #### Result of Text Processing 
 <p float="left">
- <img src="9.png" alt="data" width="500"/> 
+ <img src="9.JPG" alt="data" width="500"/> 
 </p>
 
 #### Result of TF
 <p float="left">
- <img src="10.png" alt="data" width="500"/> 
+ <img src="10.JPG" alt="data" width="500"/> 
 </p>
 
 #### Result of IDF
 <p float="left">
- <img src="11.png" alt="data" width="500"/> 
+ <img src="11.JPG" alt="data" width="500"/> 
 </p>
 
 #### Result of cosine similarity
 
 <p float="left">
- <img src="12.png" alt="data" width="500"/> 
+ <img src="12.JPG" alt="data" width="500"/> 
 </p>
 
 #### Result of cosine similarity to see similarity  between documents
 
 <p float="left">
- <img src="13.png" alt="data" width="500"/> 
+ <img src="13.JPG" alt="data" width="500"/> 
 </p>
 
 <p float="left">
- <img src="14.png" alt="data" width="500"/> 
+ <img src="14.JPG" alt="data" width="500"/> 
 </p>
 
 # Conclusion
