@@ -97,6 +97,10 @@ Use the excel file in the datasets folder of this repository
 
 ### Use cosine similarity to see similarity or distance between documents
 
+<p float="left">
+ <img src="13.png" alt="data" width="500"/> 
+</p>
+
 ## Result
 
 <p float="left">
