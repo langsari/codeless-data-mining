@@ -63,7 +63,7 @@ Use the excel file in the datasets folder of this repository
 
 - Use String to Document node to change string to document
 - Use Column filter node to remove unused column
-- Use Punctuation Erasure to remove punctuation (? , . () , : ; "")
+- Use Punctuation Erasure to remove punctuation (? ! , . () , : ; "")
 - Use case convertor node to change all character to be lowercase letter
 - Use Stop Word Filter node to remove stop word
 - Use POS Tagger node ,Stanford node to separate word Part of speech(nouns,verbs, adverb etc.)
@@ -91,13 +91,21 @@ Use the excel file in the datasets folder of this repository
 ###  Cosine similarity
 
 <p float="left">
- <img src="6.png" alt="data" width="500"/> 
+ <img src="10.png" alt="data" width="500"/> 
 </p>
 
 
 ### Use cosine similarity to see similarity or distance between documents
 
+## Result
 
+<p float="left">
+ <img src="11.png" alt="data" width="500"/> 
+</p>
+
+<p float="left">
+ <img src="12.png" alt="data" width="500"/> 
+</p>
 
 # Conclusion
   
