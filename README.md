@@ -26,7 +26,10 @@
 ###  Data Access 
 
 Use the excel file in the datasets folder of this repository
-<img src="1.png" alt="data" width="100"/>
+
+<p float="left">
+ <img src="1.png" alt="data" width="100"/> 
+</p>
 ###  Tranform Data
 
 Tranpose data 
