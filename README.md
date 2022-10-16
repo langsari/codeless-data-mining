@@ -47,6 +47,7 @@ Use the excel file in the datasets folder of this repository
 <p float="left">
  <img src="9.png" alt="data" width="500"/> 
 </p>
+
 - Use Column filter node to remove unused column(all column except new column)
 - Use Column Appender node to create new id
 - Use String Manipulation node to remove -
@@ -70,6 +71,7 @@ Use the excel file in the datasets folder of this repository
 <p float="left">
  <img src="8.png" alt="data" width="500"/> 
 </p>
+
 - Use Bag of Word Creator node to create bag of word
 
 ####  Model 
@@ -81,7 +83,7 @@ Use the excel file in the datasets folder of this repository
 - Use TF-IDF node to be Model
 - Use Math Formula node for calculate(TF*IDF)
 
-###  Use TF-IDF model to calculate weight of words
+####  Use TF-IDF model to calculate weight of words
 
 
 
