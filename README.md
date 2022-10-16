@@ -28,7 +28,7 @@
 Use the excel file in the datasets folder of this repository
 
 <p float="left">
- <img src="1.png" alt="data" width="100"/> 
+ <img src="3.png" alt="data" width="100"/> 
 </p>
 
 ###  Tranform Data
