@@ -65,7 +65,7 @@ Use the excel file in the datasets folder of this repository
 - Use POS Tagger node ,Stanford node to separate word Part of speech(nouns,verbs, adverb etc.)
 - Use Standford Lammatizer node to make the verb to be base form
 <p float="left">
- <img src="8.png" alt="data" width="100"/> 
+ <img src="8.png" alt="data" width="500"/> 
 </p>
 - Use Bag of Word Creator node to create bag of word
 
