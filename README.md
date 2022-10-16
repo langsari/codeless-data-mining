@@ -26,7 +26,7 @@
 ###  Data Access 
 
 Use the excel file in the datasets folder of this repository
-![Imgur](https://i.imgur.com/1.png)
+![](1.png)
 ###  Tranform Data
 
 Tranpose data 
