@@ -103,13 +103,28 @@ Use the excel file in the datasets folder of this repository
 
 ## Result
 
+#### Result of TF
 <p float="left">
  <img src="11.png" alt="data" width="500"/> 
 </p>
 
+#### Result of IDF
 <p float="left">
  <img src="12.png" alt="data" width="500"/> 
 </p>
+
+#### Result of cosine similarity
+
+<p float="left">
+ <img src="14.png" alt="data" width="500"/> 
+</p>
+
+#### Result of cosine similarity to see similarity or distance between documents
+
+<p float="left">
+ <img src="13.png" alt="data" width="500"/> 
+</p>
+
 
 # Conclusion
   
