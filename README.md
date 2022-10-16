@@ -55,48 +55,48 @@ use the excel file in the datasets folder of this repository
 #### Tranform Data
 
 <p float="left">
-    <img src="images/tranformworkflow.png" alt="data" width="100"/>
+    <img src="images/tranformworkflow.png" alt="data" width="500"/>
 </p>
 
 ### Text preprocessing
 
 #### For TF-IDF
 <p float="left">
-    <img src="images/textpre(tf-idf).png" alt="data" width="100"/>
+    <img src="images/textpre(tf-idf).png" alt="data" width="300"/>
 </p>
 
 #### For Word2Vec
 <p float="left">
-    <img src="images/Textpre(word2vec).png" alt="data" width="100"/>
+    <img src="images/Textpre(word2vec).png" alt="data" width="300"/>
 </p>
 
 ### Model 
 
 #### TF-IDF
 <p float="left">
-    <img src="images/Tfidf.png" alt="data" width="100"/>
+    <img src="images/Tfidf.png" alt="data" width="300"/>
 </p>
 
 #### Word2Vec
 <p float="left">
-    <img src="images/word2vecs.png" alt="data" width="100"/>
+    <img src="images/word2vecs.png" alt="data" width="300"/>
 </p>
 
 ### Measure similarity
 
 <p float="left">
-    <img src="images/similarity.png" alt="data" width="100"/>
+    <img src="images/similarity.png" alt="data" width="300"/>
 </p>
 
 ## Results
 ### Access data
 <p float="left">
-    <img src="images/data.png" alt="data" width="100"/>
+    <img src="images/data.png" alt="data" width="300"/>
 </p>
 
 ### Tranform data
 <p float="left">
-    <img src="images/tranform.png" alt="data" width="100"/>
+    <img src="images/tranform.png" alt="data" width="300"/>
 </p>
 
 ### Text Preprocessing
@@ -104,62 +104,62 @@ use the excel file in the datasets folder of this repository
 
 ##### after preprocessing
 <p float="left">
-    <img src="images/tag.png" alt="data" width="100"/>
+    <img src="images/tag.png" alt="data" width="300"/>
 </p>
 
 ##### Bag of Word
 <p float="left">
-    <img src="images/Bagofword.png" alt="data" width="100"/>
+    <img src="images/Bagofword.png" alt="data" width="300"/>
 </p>
 
 #### In Word2Vec
 ##### after preprocessing
 <p float="left">
-    <img src="images/example.png" alt="data" width="100"/>
+    <img src="images/example.png" alt="data" width="300"/>
 </p>
 
 ### Model
 #### TF-IDF
 <p float="left">
-    <img src="images/tfidtmodel.png" alt="data" width="100"/>
+    <img src="images/tfidfmodel.png" alt="data" width="300"/>
 </p>
 
 ##### Document vector
 <p float="left">
-    <img src="images/docvec.png" alt="data" width="100"/>
+    <img src="images/docvec.png" alt="data" width="300"/>
 </p>
 
 #### Word2Vec
 ##### Vocabulary
 <p float="left">
-    <img src="images/word2vecmodel.png" alt="data" width="100"/>
+    <img src="images/word2vecmodel.png" alt="data" width="300"/>
 </p>
 
 #### Document vector
 <p float="left">
-    <img src="images/docvector.png" alt="data" width="100"/>
+    <img src="images/docvector.png" alt="data" width="300"/>
 </p>
 
 
 ### Mesure Similarity
 #### Mesure TF-IDF model
 <p float="left">
-    <img src="images/table.png" alt="data" width="100"/>
+    <img src="images/table.png" alt="data" width="300"/>
 </p>
 
 ##### Heatmap(TF-IDF)
 <p float="left">
-    <img src="images/heatmap.png" alt="data" width="100"/>
+    <img src="images/heatmap.png" alt="data" width="300"/>
 </p>
 
 ####  Mesure Word2Vec model
 <p float="left">
-    <img src="images/similartable.png" alt="data" width="100"/>
+    <img src="images/similartable.png" alt="data" width="300"/>
 </p>
 
 ##### Heatmap(word2vec)
 <p float="left">
-    <img src="images/heatmap(word2vec).png" alt="data" width="100"/>
+    <img src="images/heatmap(word2vec).png" alt="data" width="300"/>
 </p>
 
 ## Conclusion
