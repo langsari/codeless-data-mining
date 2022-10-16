@@ -94,13 +94,6 @@ Use the excel file in the datasets folder of this repository
  <img src="10.png" alt="data" width="500"/> 
 </p>
 
-
-### Use cosine similarity to see similarity or distance between documents
-
-<p float="left">
- <img src="13.png" alt="data" width="500"/> 
-</p>
-
 ## Result
 
 #### Result of TF
@@ -125,6 +118,9 @@ Use the excel file in the datasets folder of this repository
  <img src="13.png" alt="data" width="500"/> 
 </p>
 
+<p float="left">
+ <img src="15.png" alt="data" width="500"/> 
+</p>
 
 # Conclusion
   
