@@ -6,18 +6,16 @@
 
    In this project, I would like to know whether the translations are similar or not. By measuring the similarity of Surah Al-Fatihah ( The opening) using four models; text processing , Term Frequency-inverse Document Frequency or TF, IDF and cosine Similarity.
 
-## Methodlogy
-
+## Methodology
 ### Tools of use
 - a computer
 - Knime Analytics Platform
 - Ecxel
 - GitHub, GitHub Desktop
-
-## package in need
+### package in need
 - Textproccessing (in knime)
- 
-## Steps to do
+
+### Steps to do
 
 <p float="left">
  <img src="7.png" alt="data" width="500"/> 
@@ -29,7 +27,7 @@
 - Create model 
 - View the result
 
-###  Data Access 
+####  Data Access 
 
 Use the excel file in the datasets folder of this repository
 
@@ -37,16 +35,16 @@ Use the excel file in the datasets folder of this repository
  <img src="3.png" alt="data" width="100"/> 
 </p>
 
-###  Tranform Data
+####  Tranform Data
 
 <p float="left">
  <img src="2.png" alt="data" width="500"/> 
 </p>
 
-- Use Column filter node to remove unuse column(surah,text,ayat)
+- Use Column filter node to remove unused column(surah,text,ayat)
 - Use Tranpose node to tranpose data 
 - Use Column combiner to combine 7 columns into a single column.
-- Use Column filter node to remove unuse column(all column except new column)
+- Use Column filter node to remove unused column(all column except new column)
 - Use Column Appender node to create new id
 - Use String Manipulation node to remove -
 
@@ -60,15 +58,18 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 - Use String to Document node to change string to document
-- Use Column filter node to remove unuse column
+- Use Column filter node to remove unused column
 - Use Punctuation Erasure to remove punctuation (? , . () , : ; "")
 - Use case convertor node to change all character to be lowercase letter
 - Use Stop Word Filter node to remove stop word
 - Use POS Tagger node ,Stanford node to separate word Part of speech(nouns,verbs, adverb etc.)
 - Use Standford Lammatizer node to make the verb to be base form
+<p float="left">
+ <img src="8.png" alt="data" width="100"/> 
+</p>
 - Use Bag of Word Creator node to create bag of word
 
-###  Model 
+####  Model 
 
 <p float="left">
  <img src="5.png" alt="data" width="500"/> 
