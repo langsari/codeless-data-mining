@@ -37,7 +37,13 @@ Use the excel file in the datasets folder of this repository
  <img src="2.png" alt="data" width="500"/> 
 </p>
 
-Tranpose data 
+- Use Column filter node to remove unuse column(surah,text,ayat)
+- Use Tranpose node to tranpose data 
+- Use Column combiner to combine 7 columns into a single column.
+- Use Column filter node to remove unuse column(all column except new column)
+- Use Column Appender node to create new id
+- Use String Manipulation node to remove -
+
 
 
 
