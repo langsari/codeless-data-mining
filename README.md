@@ -77,7 +77,7 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 
-## # Use cosine similarity to see similarity or distance between documents
+### Use cosine similarity to see similarity or distance between documents
 
 
 
