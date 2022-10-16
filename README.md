@@ -58,7 +58,15 @@ Use the excel file in the datasets folder of this repository
  <img src="4.png" alt="data" width="500"/> 
 </p>
 
-- 
+- Use String to Document node to change string to document
+- Use Column filter node to remove unuse column
+- Use Punctuation Erasure to remove punctuation (? , . () , : ; "")
+- Use case convertor node to change all character to be lowercase letter
+- Use Stop Word Filter node to remove stop word
+- Use POS Tagger node ,Stanford node to separate word Part of speech(nouns,verbs, adverb etc.)
+- Use Standford Lammatizer node to make the verb to be base form
+- Use Bag of Word Creator node to create bag of word
+
 ###  Model 
 
 <p float="left">
@@ -77,7 +85,7 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 
-## # Use cosine similarity to see similarity or distance between documents
+### Use cosine similarity to see similarity or distance between documents
 
 
 
