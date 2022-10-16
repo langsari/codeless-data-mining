@@ -43,14 +43,13 @@ This is a text mining project to determine that Surah(Al-Fatihah) is also be Al-
 - View the result
 
 ### Access Data
-    use the excel file in the datasets folder of this repository
+use the excel file in the datasets folder of this repository
 
 #### Tranform Data
-    tranpose data 
 
-    <p float="left">
-       <img src="images/tranformworkflow.png" alt="data" width="500"/>
-    </p>
+<p float="left">
+    <img src="images/tranformworkflow.png" alt="data" width="500"/>
+</p>
 
 ### Text preprocessing
 
