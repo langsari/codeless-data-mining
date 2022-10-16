@@ -6,8 +6,9 @@
 
    In this project, I would like to know whether the translations are similar or not. By measuring the similarity of Surah Al-Fatihah ( The opening) using four models; text processing , Term Frequency-inverse Document Frequency or TF, IDF and cosine Similarity.
 
+## Methodlogy
 
-## Tools of use
+### Tools of use
 - a computer
 - Knime Analytics Platform
 - Ecxel
@@ -52,7 +53,7 @@ Use the excel file in the datasets folder of this repository
 
 
 
-###  Text preprocessing
+####  Text preprocessing
 
 <p float="left">
  <img src="4.png" alt="data" width="500"/> 
