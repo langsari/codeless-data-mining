@@ -7,47 +7,48 @@
 
 
 ## Tools of use
+- a computer
 - Knime Analytics Platform
 - Ecxel
+- GitHub, GitHub Desktop
 
 ## package in need
 - Textproccessing (in knime)
  
 ## Steps to do
-
-- Access Data
+- Data Access 
 - Tranform Data
 - Text preprocessing
-- create model
+- Create model 
 - View the result
 
-## Access Data
+###  Data Access 
 
 Use the excel file in the datasets folder of this repository
 
-## Tranform Data
+###  Tranform Data
 
 Tranpose data 
 
 
 
-## Text preprocessing
+###  Text preprocessing
 
 
 
-## Model 
+###  Model 
 
 
 
-## Use tf-idf model to calculate weight of words
+###  Use TF-IDF model to calculate weight of words
 
 
 
   
-## Cosine similarity
+###  Cosine similarity
 
 
-## Use cosine similarity to see similarity or distance between documents
+## # Use cosine similarity to see similarity or distance between documents
 
 
 
