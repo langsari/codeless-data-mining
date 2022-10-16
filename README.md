@@ -1,39 +1,61 @@
-# Codeless Data Mining
-
-## Compare Similarity for 14 translater in Surah (Al-Fatihah)
+# Compare Similarity for 14 translater in Surah (Al-Fatihah)
  
 ## Overview
 This is a text mining project to determine that Surah(Al-Fatihah) is also be Al-Fatihah even translate different 14 translater.But as a computer,it does not know what is Surah(Al-Fatihah). So, this project is about to teach computer to understand about Al-Fatihah with text mining with some mathematical metrix through codeless mining tool.
 
 ![Imgur](https://i.imgur.com/NfvT4IG.png)
 
-## Tools of use
-- Knime
+## Data (Alquran english translation)
+- Dr. Mustafa Khattab, the Clear Quran
+- Fadel Soliman, Bridges’ translation
+- Maarif-ul-Quran
+- Mufti Taqi Usmani
+- Dr. Ghali
+- Abdul Haleem
+- Tafheem-ul-Quran - Abul Ala Maududi
+- English Translation (Pickthall)
+- English Translation (Yusuf Ali)
+- Ruwwad Center
+- Dr. T. B. Irving
+- Muhammad Taqi-ud-Din al-Hilali &amp; Muhammad Muhsin Khan
+- Maulana Wahiduddin Khan
+- Ibn_Kathir 
 
-## package in need
+## Methodology
+
+### Model
+- TF-IDF
+  ![Imgur](https://i.imgur.com/wjwSU2Q.png)
+- Word2Vec
+  
+### Tools of use
+- Knime
+![](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)
+
+### package in need
 - Textproccessing (in knime)
  
-## Steps
-
+### Steps
 - Access Data
 - Tranform Data
 - Text preprocessing
 - create model
 - View the result
 
-### Access Data
+#### Access Data
     use the excel file in the datasets folder of this repository
 
-### Tranform Data
-    tranpose data 
+#### Tranform Data
 
-![Imgur](https://i.imgur.com/vQIxQjY.png)
+    <p float="left">
+       <img src="images/tranformworkflow.png" alt="data" width="500"/>
+    </p>
 
-### Text preprocessing
+#### Text preprocessing
 
 ![Imgur](https://i.imgur.com/ZB4hCq4.png)
 
-### Model 
+#### Model 
 
 ![Imgur](https://i.imgur.com/wjwSU2Q.png)
     Use tf-idf model to calculate weight of words
