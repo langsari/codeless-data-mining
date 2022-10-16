@@ -1,8 +1,8 @@
 # codeless data mining
- ## Compare Similarity for 14 translater in Surah (Al-Fatihah)
+ ## Measuring similarity English translations of Surah Al-Fatihah using computational calculation methods.
  
 ## Overview
-
+   The Qur'an has been translated in many different versions by using different translation sentence. For example, the word Allah has more than one translation. Some translate to “God” some translate to “Lord”
 
 
 ## Tools of use
