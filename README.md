@@ -17,6 +17,11 @@
 - Textproccessing (in knime)
  
 ## Steps to do
+
+<p float="left">
+ <img src="7.png" alt="data" width="500"/> 
+</p>
+
 - Data Access 
 - Tranform Data
 - Text preprocessing
@@ -49,11 +54,16 @@ Use the excel file in the datasets folder of this repository
 
 ###  Text preprocessing
 
+<p float="left">
+ <img src="4.png" alt="data" width="500"/> 
+</p>
 
-
+- 
 ###  Model 
 
-
+<p float="left">
+ <img src="5.png" alt="data" width="500"/> 
+</p>
 
 ###  Use TF-IDF model to calculate weight of words
 
@@ -61,6 +71,10 @@ Use the excel file in the datasets folder of this repository
 
   
 ###  Cosine similarity
+
+<p float="left">
+ <img src="6.png" alt="data" width="500"/> 
+</p>
 
 
 ## # Use cosine similarity to see similarity or distance between documents
