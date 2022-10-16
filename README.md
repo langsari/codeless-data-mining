@@ -82,8 +82,7 @@ Use the excel file in the datasets folder of this repository
 
 - Use TF-IDF node to be Model
 - Use Math Formula node for calculate(TF*IDF)
-
-####  Use TF-IDF model to calculate weight of words
+- Use TF-IDF model to calculate weight of words
 
 
 
@@ -112,7 +111,7 @@ Use the excel file in the datasets folder of this repository
  <img src="14.png" alt="data" width="500"/> 
 </p>
 
-#### Result of cosine similarity to see similarity or distance between documents
+#### Result of cosine similarity to see similarity  between documents
 
 <p float="left">
  <img src="13.png" alt="data" width="500"/> 
@@ -123,6 +122,9 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 # Conclusion
+
+# Suggestion
+
   
 
  
