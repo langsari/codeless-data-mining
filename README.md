@@ -73,6 +73,9 @@ Use the excel file in the datasets folder of this repository
  <img src="5.png" alt="data" width="500"/> 
 </p>
 
+- Use TF-IDF node to be Model
+- Use Math Formula node for calculation
+
 ###  Use TF-IDF model to calculate weight of words
 
 
