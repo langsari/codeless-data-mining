@@ -4,7 +4,7 @@
 This is a text mining project to determine that Surah(Al-Fatihah) is also be Al-Fatihah even translate different 14 translater.But as a computer,it does not know what is Surah(Al-Fatihah). So, this project is about to teach computer to understand about Al-Fatihah with text mining with some mathematical metrix through codeless mining tool.
 
 <p float="left">
-    <img src="images/workflow.png" alt="data" width="100"/>
+    <img src="images/workflow.png" alt="data" width="500"/>
 </p>
 
 ## Data (Alquran english translation)
