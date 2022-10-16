@@ -30,7 +30,12 @@ Use the excel file in the datasets folder of this repository
 <p float="left">
  <img src="1.png" alt="data" width="100"/> 
 </p>
+
 ###  Tranform Data
+
+<p float="left">
+ <img src="2.png" alt="data" width="500"/> 
+</p>
 
 Tranpose data 
 
