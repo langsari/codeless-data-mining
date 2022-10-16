@@ -95,6 +95,16 @@ Use the excel file in the datasets folder of this repository
 
 ## Result
 
+#### Result of Data access
+<p float="left">
+ <img src="16.png" alt="data" width="500"/> 
+</p>
+
+#### Result of Tranform Data 
+<p float="left">
+ <img src="17.png" alt="data" width="500"/> 
+</p>
+
 #### Result of TF
 <p float="left">
  <img src="11.png" alt="data" width="500"/> 
