@@ -26,7 +26,6 @@
 ###  Data Access 
 
 Use the excel file in the datasets folder of this repository
-![](1.png)
 <img src="1.png" alt="data" width="100"/>
 ###  Tranform Data
 
