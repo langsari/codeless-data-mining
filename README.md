@@ -2,18 +2,18 @@
 # Measuring similarity English translations of Surah Al-Fatihah using computational calculation methods.
  
 ## Overview
-   The Qur'an has been translated in many different versions by using different translation sentence. For example, the word Allah has more than one translation. Some translate to “God” some translate to “Lord”
+   The Qur'an has been translated in many different versions by using different translation sentence. For example, the word Allah has more than one translation. Some translate to “God” some translate to “Lord”.
    In this project, I would like to know whether the translations are similar or not. By measuring the similarity of Surah Al-Fatihah ( The opening) using four models; text processing , Term Frequency-inverse Document Frequency or TF, IDF and cosine Similarity.
 
 
 ## Tools of use
-- Knime
--Excel
+- Knime Analytics Platform
+- Ecxel
 
 ## package in need
 - Textproccessing (in knime)
  
-## Steps
+## Steps to do
 
 - Access Data
 - Tranform Data
