@@ -32,7 +32,7 @@
 Use the excel file in the datasets folder of this repository
 
 <p float="left">
- <img src="3.png" alt="data" width="500"/> 
+ <img src="3.png" alt="data" width="100"/> 
 </p>
 
 ####  Tranform Data
@@ -44,6 +44,9 @@ Use the excel file in the datasets folder of this repository
 - Use Column filter node to remove unused column(surah,text,ayat)
 - Use Tranpose node to tranpose data 
 - Use Column combiner to combine 7 columns into a single column.
+<p float="left">
+ <img src="9.png" alt="data" width="500"/> 
+</p>
 - Use Column filter node to remove unused column(all column except new column)
 - Use Column Appender node to create new id
 - Use String Manipulation node to remove -
