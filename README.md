@@ -94,6 +94,10 @@ Use the excel file in the datasets folder of this repository
  <img src="10.png" alt="data" width="500"/> 
 </p>
 
+<p float="left">
+ <img src="22.png" alt="data" width="500"/> 
+</p>
+
 ## Result
 
 #### Result of Data access
