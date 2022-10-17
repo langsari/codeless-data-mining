@@ -20,13 +20,19 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 - github
 
 ## step to do 
-### Preprocessing 
+## Preprocessing 
 1. data access
 ![](/img/excel%20reader.png)
+
+![](/img/r1.png)
 2. transfrom data 
 ![](/img/tranfrom%20data%20.png)
+
+![](/img/r2.png)
+
 3. data processing 
  ![](/img/text%20process.png)
+
 
  - string to document 
  - POS Tagger
@@ -38,7 +44,10 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
  - N Chars filter
  - Bag of word creater
 
- ### Processing
+
+![](/img/r3.png)
+
+ # Model
  ## First Way 
  ![](/img/w1.png)
  ### TF-IDF
@@ -46,9 +55,6 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 
  use formula TF * IDF 
 
- ### Cosine Similarity 
- ![](/img/cosine%20.png)
- 
  ## Secone Way 
  ![](/img/w1.png)
  ### TF-IDF
@@ -56,25 +62,20 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 
  use formula TF log(IDF) 
 
- ### Cosine Similarity 
- ![](/img/cosine%20.png)
+ # Test
 
+### Cosine Similarity 
+ ![](/img/cosine%20.png)
+ 
+ 
+
+ 
 
 
 
 
 # Result
-## preprocessing 
-### Data access
-![](/img/r1.png)
 
-### Transfrom data
-![](/img/r2.png)
-
-### Data processing 
-![](/img/r3.png)
-
-## Processing 
 ### First Way  
 ![](/img/r4.png)
 
