@@ -131,11 +131,11 @@ Use the excel file in the datasets folder of this repository
 #### Result of cosine similarity to see similarity  between documents
 
 <p float="left">
- <img src="19.png" alt="data" width="500"/> 
+ <img src="13.png" alt="data" width="500"/> 
 </p>
 
 <p float="left">
- <img src="18.png" alt="data" width="500"/> 
+ <img src="15.png" alt="data" width="500"/> 
 </p>
 
 # Conclusion
