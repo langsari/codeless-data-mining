@@ -1,47 +1,83 @@
 ## codeless data mining
-# Measuring Similarity English Translations of Surah Al-Fatihah using Computational Methods 
-### Arif Yacop 
-### 3rd year Data science and Analytics Deparment of science and technology Fatoni University 
+### Measuring Similarity English Translations of Surah Al-Fatihah using Computational Methods 
+# Arif Yacop 
+# 3rd year Data science and Analytics Deparment of science and technology Fatoni University 
 
 
-## Overview
-similarity evaluation between different English translation of Surah Al-Fatihah by using computational method is perfomed. The computational are Preprocessing, Term Frequency-Inverse Document Frequency(TF-IDF), and Cosine Similarity. Follow the process i used 16 translation of surah Al-Fatihah 
+### Overview
+similarity evaluation between different English translation of Surah Al-Fatihah by using computational method is perfomed. 
+
 
 ## Data (Alquran english translation)
-- Dr. Mustafa Khattab, the Clear Quran
-- Fadel Soliman, Bridges’ translation
-- Abridged Explanation of the Quran
-- Saheeh International
-- Maarif-ul-Quran
-- Mufti Taqi Usmani
-- Dr. Ghali
-- Abdul Haleem
-- Tafheem-ul-Quran - Abul Ala Maududi
-- English Translation (Pickthall)
-- English Translation (Yusuf Ali)
-- Ruwwad Center
-- Dr. T. B. Irving
-- Muhammad Taqi-ud-Din al-Hilali &amp; Muhammad Muhsin Khan
-- Maulana Wahiduddin Khan
-- Ibn_Kathir 
+[16 translation of surah Al-fatihah](/15-English-Quran-Al-Fatihah-Translation/english-quran-al-fatihah-translation.xlsx)
+
+![](/img/data.png)
+7 row, 19 column
 
 ## tool
 - excel
 - knime
-![](https://www.knime.com/themes/custom/bootstrap_knime/logo_black.svg)
-## method 
-1. Understand our project
-2. Data understanding 
-3. Data preparation 
-    - Clean 
-    - transform
-    - POS tagging
-    - stemming 
-    - tokenization 
-    - remove stopword 
-4. TF-IDF process
-5. Cossine Semilarity
+- github
 
-## Result
-![](/img/result.png)
+## step to do 
+### Preprocessing 
+1. data access
+![](/img/excel%20reader.png)
+2. transfrom data 
+![](/img/tranfrom%20data%20.png)
+3. data processing 
+ ![](/img/text%20process.png)
+
+ - string to document 
+ - POS Tagger
+ - Stanford Tadder
+ - Punctuation Erasure
+ - Stop word Fiter
+ - Case Converter
+ - Snowball stemmer
+ - N Chars filter
+ - Bag of word creater
+
+ ### Processing
+ ## First Way 
+ ![](/img/w1.png)
+ # TF-IDF
+ ![](/img/TF-IDF.png)
+
+ use formula TF * IDF 
+
+ # Cosine Similarity 
+ ![](/img/cosine%20.png)
+ 
+ ## Secone Way 
+ ![](/img/w1.png)
+ # TF-IDF
+ ![](/img/TF-IDF.png)
+
+ use formula TF log(IDF) 
+
+ # Cosine Similarity 
+ ![](/img/cosine%20.png)
+
+
+
+
+
+### Result
+## preprocessing 
+# Data access
+![](/img/r1.png)
+
+# Transfrom data
+![](/img/r2.png)
+
+# Data processing 
+![](/img/r3.png)
+
+## Processing 
+# First Way  
+![](/img/r4.png)
+
+# Second Way
+![](/img/r5.png)
 
