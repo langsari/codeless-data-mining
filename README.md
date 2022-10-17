@@ -11,7 +11,7 @@ Al-Quran literally meaning “the recitation” which is the central religious t
 When Surah Al-Fatihah translated into English translations, it has many different version between each translator. For example; the word: مالك in English can be translated to the word LORD (Maulana Wahiduddin Khan) and MASTER (Ibnu Kathir).
 
 ## Ojectives
-### Evaluate the similarity of 16 translator based on computational methods 
+### Evaluate the similarity of each translator based on computational methods 
 Dr. Mustafa Khattab, the Clear Quran
 Fadel Soliman, Bridges’ translation
 Abridged Explanation of the Quran
