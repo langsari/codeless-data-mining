@@ -139,9 +139,9 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 # Conclusion
- 
+ In this project, I used TF-IDF  to create weight frequecy of words to measure the distance between 14 documents of surah Al-fatihah with cosine similarity. For conclusion, we can see the good rusult
 # Suggestion
-
+To do it using Knime, you need to know the different filters well, some of the functions that might be available but we can't find them. should be studied in detail Understanding the TF-IDF and Cosine model will give us a better understanding of what we want to convey.
   
 
  
