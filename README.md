@@ -48,6 +48,7 @@ Use in excel format
 
 ### Model (TF-IDF)
 <img width="331" alt="TF-IDF" src="https://user-images.githubusercontent.com/96813206/196070169-a47b7ace-3c4d-44fe-9a81-9b658a214a74.png">
+<img width="628" alt="view" src="https://user-images.githubusercontent.com/96813206/196082860-e9365176-a0f5-4e0b-9745-da924934aacb.png">
 
 ### Measure similarity
 <img width="292" alt="Measure" src="https://user-images.githubusercontent.com/96813206/196070532-18a93243-44c3-460f-972b-91928c4a3750.png">
