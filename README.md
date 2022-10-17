@@ -41,7 +41,7 @@ Github
 Use in excel format
 
 ### Data Transformation
-####<img width="468" alt="Data Transformation" src="https://user-images.githubusercontent.com/96813206/196069899-de7691f3-bc6d-4f19-b49d-f86352a96200.png">
+<img width="468" alt="Data Transformation" src="https://user-images.githubusercontent.com/96813206/196069899-de7691f3-bc6d-4f19-b49d-f86352a96200.png">
 
 ### Data Pre-Processing (Text)
 <img width="433" alt="Data Processing" src="https://user-images.githubusercontent.com/96813206/196070051-1c9c09ca-4b55-421a-aa8e-b5ad765eaa7f.png">
