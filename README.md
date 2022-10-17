@@ -81,3 +81,5 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
 ### Second Way
 ![](/img/r5.png)
 
+## Conclution 
+math for formula is very importent for find weigh of frequency
