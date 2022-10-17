@@ -1,10 +1,10 @@
 ## codeless data mining
-### Measuring Similarity English Translations of Surah Al-Fatihah using Computational Methods 
-# Arif Yacop 
-# 3rd year Data science and Analytics Deparment of science and technology Fatoni University 
+# Measuring Similarity English Translations of Surah Al-Fatihah using Computational Methods 
+### Arif Yacop 
+### 3rd year Data science and Analytics Deparment of science and technology Fatoni University 
 
 
-### Overview
+# Overview
 similarity evaluation between different English translation of Surah Al-Fatihah by using computational method is perfomed. 
 
 
@@ -41,43 +41,43 @@ similarity evaluation between different English translation of Surah Al-Fatihah 
  ### Processing
  ## First Way 
  ![](/img/w1.png)
- # TF-IDF
+ ### TF-IDF
  ![](/img/TF-IDF.png)
 
  use formula TF * IDF 
 
- # Cosine Similarity 
+ ### Cosine Similarity 
  ![](/img/cosine%20.png)
  
  ## Secone Way 
  ![](/img/w1.png)
- # TF-IDF
+ ### TF-IDF
  ![](/img/TF-IDF.png)
 
  use formula TF log(IDF) 
 
- # Cosine Similarity 
+ ### Cosine Similarity 
  ![](/img/cosine%20.png)
 
 
 
 
 
-### Result
+# Result
 ## preprocessing 
-# Data access
+### Data access
 ![](/img/r1.png)
 
-# Transfrom data
+### Transfrom data
 ![](/img/r2.png)
 
-# Data processing 
+### Data processing 
 ![](/img/r3.png)
 
 ## Processing 
-# First Way  
+### First Way  
 ![](/img/r4.png)
 
-# Second Way
+### Second Way
 ![](/img/r5.png)
 
