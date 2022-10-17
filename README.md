@@ -46,7 +46,8 @@ Textproccessing (in knime)
 </p>
 
 
-## <p float="left">
+## View
+<p float="left">
  <img src="6.png" alt="data" width="500"/> 
 </p>
 
