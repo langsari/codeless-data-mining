@@ -54,3 +54,5 @@ Use in excel format
 
 
 ## Result
+<img width="331" alt="TF-IDF" src="https://user-images.githubusercontent.com/96813206/196077260-506ea545-518c-49e4-96ca-e4f5310c2338.png">
+<img width="647" alt="image" src="https://user-images.githubusercontent.com/96813206/196077516-b90de84f-036c-44b3-ab4e-355adb8735d4.png">
