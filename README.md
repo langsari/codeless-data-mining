@@ -121,6 +121,11 @@ Use the excel file in the datasets folder of this repository
  <img src="12.png" alt="data" width="500"/> 
 </p>
 
+#### Result of Document vector
+<p float="left">
+ <img src="21.png" alt="data" width="500"/> 
+</p>
+
 #### Result of cosine similarity
 
 <p float="left">
@@ -138,7 +143,7 @@ Use the excel file in the datasets folder of this repository
 </p>
 
 # Conclusion
-
+ 
 # Suggestion
 
   
