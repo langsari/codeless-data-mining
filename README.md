@@ -1,10 +1,7 @@
-# codeless data mining
-# Measuring similarity English translations of Surah Al-Fatihah using computational calculation methods.
+# Compare Similarity for 14 translater in Surah Al-Fatihah
  
 ## Overview
-   The Qur'an has been translated in many different versions by using different translation sentence. For example, the word Allah has more than one translation. Some translate to “God” some translate to “Lord”.
-
-   In this project, I would like to know whether the translations are similar or not. By measuring the similarity of Surah Al-Fatihah ( The opening) using four models; text processing , Term Frequency-inverse Document Frequency or TF, IDF and cosine Similarity.
+   This is a text mining project to determine that Surah(Al-Fatihah) is also be Al-Fatihah even translate different 14 translater.But as a computer,it does not know what is Surah(Al-Fatihah). So, this project is about to teach computer to understand about Al-Fatihah with text mining with some mathematical metrix through codeless mining tool.
 
 ## Methodology
 ### Tools of use
