@@ -12,29 +12,29 @@ When Surah Al-Fatihah translated into English translations, it has many differen
 
 ## Ojectives
 ### Evaluate the similarity of 16 translator based on computational methods 
-#### Dr. Mustafa Khattab, the Clear Quran
-#### Fadel Soliman, Bridges’ translation
-#### Abridged Explanation of the Quran
-#### Saheeh International
-####  Maarif-ul-Quran
-#### Mufti Taqi Usmani
-#### Dr. Ghali
-#### Abdul Haleem
-#### Tafheem-ul-Quran - Abul Ala Maududi
-#### English Translation (Pickthall)
-#### English Translation (Yusuf Ali)
-#### Ruwwad Center
-#### Dr. T. B. Irving
-#### Muhammad Taqi-ud-Din al-Hilali &amp; Muhammad Muhsin Khan
-#### Maulana Wahiduddin Khan
-#### Ibn_Kathir 
+Dr. Mustafa Khattab, the Clear Quran
+Fadel Soliman, Bridges’ translation
+Abridged Explanation of the Quran
+Saheeh International
+Maarif-ul-Quran
+Mufti Taqi Usmani
+Dr. Ghali
+Abdul Haleem
+Tafheem-ul-Quran - Abul Ala Maududi
+English Translation (Pickthall)
+English Translation (Yusuf Ali)
+Ruwwad Center
+Dr. T. B. Irving
+Muhammad Taqi-ud-Din al-Hilali &amp; Muhammad Muhsin Khan
+Maulana Wahiduddin Khan
+Ibn_Kathir 
 
 ## Methodology
-### Term Frequency- Inverse Document Frequency (TF-IDF)
+Term Frequency- Inverse Document Frequency (TF-IDF)
 
 ## Tools in use
-### Knime
-### Github
+Knime
+Github
 
 ## Steps in doing project
 ###  Getting the data
@@ -44,13 +44,13 @@ Use in excel format
 ####<img width="468" alt="Data Transformation" src="https://user-images.githubusercontent.com/96813206/196069899-de7691f3-bc6d-4f19-b49d-f86352a96200.png">
 
 ### Data Pre-Processing (Text)
-####<img width="433" alt="Data Processing" src="https://user-images.githubusercontent.com/96813206/196070051-1c9c09ca-4b55-421a-aa8e-b5ad765eaa7f.png">
+<img width="433" alt="Data Processing" src="https://user-images.githubusercontent.com/96813206/196070051-1c9c09ca-4b55-421a-aa8e-b5ad765eaa7f.png">
 
 ### Model (TF-IDF)
-#### <img width="331" alt="TF-IDF" src="https://user-images.githubusercontent.com/96813206/196070169-a47b7ace-3c4d-44fe-9a81-9b658a214a74.png">
+<img width="331" alt="TF-IDF" src="https://user-images.githubusercontent.com/96813206/196070169-a47b7ace-3c4d-44fe-9a81-9b658a214a74.png">
 
 ### Measure similarity
-#### <img width="292" alt="Measure" src="https://user-images.githubusercontent.com/96813206/196070532-18a93243-44c3-460f-972b-91928c4a3750.png">
+<img width="292" alt="Measure" src="https://user-images.githubusercontent.com/96813206/196070532-18a93243-44c3-460f-972b-91928c4a3750.png">
 
 
 ## Result
