@@ -9,9 +9,12 @@
 - Knime Analytics Platform
 - Ecxel
 - GitHub, GitHub Desktop
+
  
 ### package 
 Textproccessing (in knime)
+
+
 
 ### Steps to do
 
@@ -25,15 +28,21 @@ Textproccessing (in knime)
 - Create model 
 - View the result
 
+
+
 ## DATA ACCESS
 <p float="left">
  <img src="2.png" alt="data" width="500"/> 
 </p>
 
+
+
 ## TRANFORM DATA
 <p float="left">
  <img src="3.png" alt="data" width="500"/> 
 </p>
+
+
 
 ## TEXT PROCESSING
 <p float="left">
