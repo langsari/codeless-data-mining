@@ -5,11 +5,11 @@
    In this project, I would like to know whether the translations are similar or not. By measuring the similarity of Surah Al-Fatihah ( The opening) using four models; text processing , Term Frequency-inverse Document Frequency or TF, IDF  Similarity.
  
 ### Tools of use
-- a computer
-- Knime Analytics Platform
-- Ecxel
-- GitHub, GitHub Desktop
-- 
+-a computer
+-Knime Analytics Platform
+-Ecxel
+-GitHub, GitHub Desktop
+ 
 ### package 
 Textproccessing (in knime)
 
@@ -18,11 +18,11 @@ Textproccessing (in knime)
 <p float="left">
  <img src="1.png" alt="data" width="500"/> 
 </p>
-- Data Access 
-- Tranform Data
-- Text preprocessing
-- Create model 
-- View the result
+-Data Access 
+-Tranform Data
+-Text preprocessing
+-Create model 
+-View the result
 
 ## DATA ACCESS
 <p float="left">
